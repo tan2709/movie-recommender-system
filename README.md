@@ -83,6 +83,10 @@ The system uses a content-based filtering approach. Recommendations are generate
 * Genre and language-based filtering
 * Improved search and recommendation ranking
 
+## Live Demo
+
+https://movie-recommender-system-vxgkshiferesusamtsxp5k.streamlit.app/
+
 ## Author
 
 **Tanisha Bisht**
